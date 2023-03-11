@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Porto/static/css/main.d4b4595d.css",
-    "main.js": "/Porto/static/js/main.23b9342c.js",
+    "main.css": "/Porto/static/css/main.40d00f39.css",
+    "main.js": "/Porto/static/js/main.f1776c39.js",
     "static/js/787.324a3c92.chunk.js": "/Porto/static/js/787.324a3c92.chunk.js",
     "static/media/backg1.png": "/Porto/static/media/backg1.37f0cc4ac61a9b767eea.png",
     "static/media/gue.png": "/Porto/static/media/gue.212ab91cd2d4cbc11d88.png",
@@ -14,12 +14,12 @@
     "static/media/icon-folders.svg": "/Porto/static/media/icon-folders.829d208750962562244c5ded0c3b105e.svg",
     "index.html": "/Porto/index.html",
     "static/media/icon-home.svg": "/Porto/static/media/icon-home.6779fb24a8359411a9ec7ba2cbbe738b.svg",
-    "main.d4b4595d.css.map": "/Porto/static/css/main.d4b4595d.css.map",
-    "main.23b9342c.js.map": "/Porto/static/js/main.23b9342c.js.map",
+    "main.40d00f39.css.map": "/Porto/static/css/main.40d00f39.css.map",
+    "main.f1776c39.js.map": "/Porto/static/js/main.f1776c39.js.map",
     "787.324a3c92.chunk.js.map": "/Porto/static/js/787.324a3c92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b4595d.css",
-    "static/js/main.23b9342c.js"
+    "static/css/main.40d00f39.css",
+    "static/js/main.f1776c39.js"
   ]
 }
